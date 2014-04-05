@@ -1,0 +1,3 @@
+#Re-captcha
+recaptcha.publicKey=<public-key>
+recaptcha.privateKey=<private-key> 
