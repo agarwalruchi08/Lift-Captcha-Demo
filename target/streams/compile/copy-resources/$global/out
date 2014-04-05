@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/ruchi/lift_25_sbt/scala_210/lift_basic/src/main/resources/props,/home/ruchi/lift_25_sbt/scala_210/lift_basic/target/scala-2.10/classes/props)[0m
+[0m[[0mdebug[0m] [0m	(/home/ruchi/lift_25_sbt/scala_210/lift_basic/src/main/resources/logback.xml,/home/ruchi/lift_25_sbt/scala_210/lift_basic/target/scala-2.10/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/ruchi/lift_25_sbt/scala_210/lift_basic/src/main/resources/props/default.props,/home/ruchi/lift_25_sbt/scala_210/lift_basic/target/scala-2.10/classes/props/default.props)[0m

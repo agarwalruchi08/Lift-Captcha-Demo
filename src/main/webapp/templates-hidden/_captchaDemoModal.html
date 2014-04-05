@@ -1,0 +1,28 @@
+<body class="lift:content_id=container" xmlns:lift="">
+
+	<div id="container">
+		<!-- Capcha Demo Modal -->
+		<div class="modal fade" id="captchaDemoModal" tabindex="-1" role="dialog"
+			aria-labelledby="myModalLabel" aria-hidden="true">
+			<form class="lift:Form.ajax">
+				<div class="modal-dialog" data-lift="CaptchaDemo">
+					<div class="modal-content" id="captchaDemo">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+							<h4 class="modal-title" id="myModalLabel">Capcha Demo</h4>
+						</div>
+						<div class="modal-body">
+							<span class="lift:Msg?id=captchaError&errorClass=error">error</span> <span id="captcha"></span>
+						</div>
+						<div class="modal-footer">
+							<button type="button" class="btn btn-primary" id="validateCaptcha">Done</button>
+							<span id="ajax-loader" style="display: none;"> <img src="/images/ajax-loader.gif"
+								width="25" height="25" />
+							</span>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</body>
